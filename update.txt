@@ -2,5 +2,4 @@
   [+] Kullanima acildi.
      [+] Fix;
   [-] API seciniz sorunu duzeltilmistir
-  [-] One Cikar(Topmost) sorunu duzeltilmistir
      [+] uygulama 1.0.2  versiyonuna yukseltilmistir.
