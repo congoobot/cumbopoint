@@ -1,9 +1,1 @@
-V 1.0.2
-  [+] Fix;
-     [-] API seciniz sorunu duzeltilmistir
-  [+] uygulama 1.0.2  versiyonuna yukseltilmistir.
 
-V 1.0.3
-  [+] Fix;
-     [-] One Cikar(Topmost) sorunu duzeltilmistir
-  [+] uygulama 1.0.3  versiyonuna yukseltilmistir.
